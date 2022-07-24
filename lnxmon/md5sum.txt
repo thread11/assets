@@ -1,0 +1,2 @@
+dad031cdcecdc47870346e7db400905d  lnxmoncli
+e6451f329b893add8494543dd17b9467  lnxmonsrv
